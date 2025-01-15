@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prajwalbokade23
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning full stack development 
-- 💞️ I’m looking to collaborate on software development field.
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Data Science 
+- 💞️ I’m looking to collaborate on Data field.
 - 📫 How to reach me ==> prajwalbokade@gmail.com
 
 
