@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Data field.
-- 📫 How to reach me ==> prajwalbokade@gmail.com
+- 📫 How to reach me ==> prajwalbokade3@gmail.com
 
 
 <!---
